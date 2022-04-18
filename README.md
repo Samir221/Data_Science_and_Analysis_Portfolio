@@ -1,4 +1,5 @@
-# Samir_Portfolio
-Samir's Data Science/Analysis Portfolio
+# Samir Chawla's Data Science and Analysis Portfolio
 
-### This is a TEST
+Welcome to my Portfolio page and feel free to browse all my projects below.
+
+
